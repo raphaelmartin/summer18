@@ -1,4 +1,4 @@
-# init
+# culture générale : la stratification sociale
 
-.
+:\)
 
