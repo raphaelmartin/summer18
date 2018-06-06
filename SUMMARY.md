@@ -8,7 +8,13 @@
 
 ## sociologie
 
+* [init](sociologie/init.md)
+
 ## info-com
 
+* [init](info-com/init.md)
+
 ## programmation
+
+* [init](programmation/init.md)
 
