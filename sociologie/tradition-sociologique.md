@@ -5,8 +5,8 @@ Durkheim
 - l'étude sociologique du phénomène "suicide"
 
 ## L1SOEC01 - Tradition sociologique : Emergence et institutionnalisation de la sociologie (1880- 1960) en France
-Philippe Steiner, Professeur
-Comment la sociologie s’est-elle constituée comme discours sur le social, comme discipline institutionnelle et scientifique ? Autour de quelles définitions et conceptions du social ? Autour de quels modèles scientifiques ? Avec quelles méthodes et techniques d’approches ? Que nous disent les textes fondateurs sur ce qui a fait et qui fait toujours aujourd’hui les spécificités du discours sociologique ? La présentation des fondements de la pensée sociologique en France, un des berceaux de la discipline, entend permettre la découverte des « pères fondateurs » (Durkheim, Mauss, Halbwachs, ...) et donner des réponses à ces questions de type épistémologique.
+*Philippe Steiner, Professeur*  
+Comment la sociologie s’est-elle constituée comme discours sur le social, comme discipline institutionnelle et scientifique ? Autour de quelles définitions et conceptions du social ? Autour de quels modèles scientifiques ? Avec quelles méthodes et techniques d’approches ? Que nous disent les textes fondateurs sur ce qui a fait et qui fait toujours aujourd’hui les spécificités du discours sociologique ? La présentation des fondements de la pensée sociologique en France, un des berceaux de la discipline, entend permettre la découverte des « pères fondateurs » (Durkheim, Mauss, Halbwachs...) et donner des réponses à ces questions de type épistémologique.
 
 *Bibliographie*  
 Durkheim E., Les règles de la méthode sociologique, 1895, Paris, PUF Quadrige 2002 Durkheim E., Le suicide, 1897, Paris, PUF, Quadrige, 2002  
