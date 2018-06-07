@@ -13,6 +13,7 @@
 * [atelier de lecture](sociologie/atelier-de-lecture.md)
 * [théorie et concepts](sociologie/theorie-et-concepts.md)
 * [intro aux méthodes d'enquêtes en sc.sociales](sociologie/intro-aux-methodes-denquetes-en-sc.sociales.md)
+* [méthodes quanti](sociologie/methodes-quanti.md)
 
 ## info-com
 
