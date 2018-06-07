@@ -1,5 +1,5 @@
 # L1SOEC06 - Culture générale : Stratification sociale
-Sébastien Mosbah-Natanson, MCF  
+
 Ce cours propose une introduction à l’analyse de la stratification sociale et des inégalités, en portant une attention particulière aux données, aux faits, aux tendances. L’orientation empirique de ce cours le rend complémentaire des cours sociologiques classiques dispensés en L1 (« Théorie et concepts » et « Traditions Sociologiques »), dans lesquels la question de la stratification peut être abordée.  
 La première partie est consacrée à la structure sociale des sociétés traditionnelles et aux formes spécifiques de la différenciation sociale dans celles-ci, en prenant les exemples de la société indienne et des castes ainsi que de la société d’Ancien Régime. La seconde partie du cours est consacrée à l’organisation sociale des sociétés modernes et contemporaines : nous étudierons les transformations sociales récentes en revenant tout particulièrement sur le débat à propos du déclin et du retour des classes sociales (Louis Chauvel). Les questions de la mobilité sociale et du déclassement seront également abordées (Merllié, Peugny).  
 
