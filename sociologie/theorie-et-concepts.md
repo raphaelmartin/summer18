@@ -1,4 +1,4 @@
-# Théorie et concepts
+# théorie et concepts
 
 L’objectif de ce cours est de donner aux étudiants un premier aperçu des principales théories et des concepts fondamentaux de la discipline. Le cours présente d’abord l’objet de la sociologie et les principaux courants. Ensuite, les concepts fondamentaux sont abordés à travers deux parties : 1\) la notion de culture et d’identité, et 2\) la stratification sociale et les inégalités. Chacune de ces parties sera développée en s’appuyant sur des travaux classiques et des travaux récents en sociologie.
 

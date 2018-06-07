@@ -9,7 +9,7 @@
 ## sociologie
 
 * [culture générale : la stratification sociale](sociologie/culture-generale-la-stratification-sociale.md)
-* [Tradition sociologique](sociologie/tradition-sociologique.md)
+* [tradition sociologique](sociologie/tradition-sociologique.md)
 * [atelier de lecture](sociologie/atelier-de-lecture.md)
 * [théorie et concepts](sociologie/theorie-et-concepts.md)
 * [intro aux méthodes d'enquêtes en sc.sociales](sociologie/intro-aux-methodes-denquetes-en-sc.sociales.md)
