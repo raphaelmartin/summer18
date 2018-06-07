@@ -6,9 +6,9 @@
 
 * [semaine du 4/06](lecture/semaine-du-4-06.md)
 
-## sociologie
+## sociologie S1
 
-* [culture générale : la stratification sociale](sociologie/culture-generale-la-stratification-sociale.md)
+* [culture générale](sociologie/culture-generale-la-stratification-sociale.md)
 * [tradition sociologique](sociologie/tradition-sociologique.md)
 * [atelier de lecture](sociologie/atelier-de-lecture.md)
 * [théorie et concepts](sociologie/theorie-et-concepts.md)
