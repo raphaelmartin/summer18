@@ -1,4 +1,4 @@
-# semaine du 4/06
+# semaine du 11/06
 
 ### Livres à lire:
 
@@ -8,3 +8,4 @@
 * Mode protégé — Friedrich KITTLER
 * Pour les sciences sociales, 101 livres — Cyril LEMIEUX
 
+A lire pour le 20/06.
