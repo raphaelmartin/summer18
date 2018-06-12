@@ -1,6 +1,6 @@
 # semaine du 11/06
 
-### Livres à lire:
+## Livres à lire:
 
 * L'oeuvre d'art à l'époque de sa reproductibilité technique — Walter BENJAMIN
 * Cours de linguistique générale — Ferdinand DE SAUSSURE
@@ -9,3 +9,4 @@
 * Pour les sciences sociales, 101 livres — Cyril LEMIEUX
 
 A lire pour le 20/06.
+

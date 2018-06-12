@@ -4,16 +4,16 @@
 
 ## lecture
 
-* [semaine du 4/06](lecture/semaine-du-4-06.md)
+* [semaine du 11/06](lecture/semaine-du-4-06.md)
 
 ## sociologie S1
 
-* [culture générale](sociologie/culture-generale-la-stratification-sociale.md)
-* [tradition sociologique](sociologie/tradition-sociologique.md)
-* [atelier de lecture](sociologie/atelier-de-lecture.md)
-* [théorie et concepts](sociologie/theorie-et-concepts.md)
-* [intro aux méthodes d'enquêtes en sc.sociales](sociologie/intro-aux-methodes-denquetes-en-sc.sociales.md)
-* [méthodes quanti](sociologie/methodes-quanti.md)
+* [culture générale](sociologie-s1/culture-generale.md)
+* [tradition sociologique](sociologie-s1/tradition-sociologique.md)
+* [atelier de lecture](sociologie-s1/atelier-de-lecture.md)
+* [théorie et concepts](sociologie-s1/theorie-et-concepts.md)
+* [intro aux méthodes d'enquêtes en sc.sociales](sociologie-s1/intro-aux-methodes-denquetes-en-sc.sociales.md)
+* [méthodes quanti](sociologie-s1/methodes-quanti.md)
 
 ## info-com
 
