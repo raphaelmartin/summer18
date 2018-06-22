@@ -17,7 +17,7 @@ l'affaire Dreyfus
 
 ## l'objet de la sociologie
 
-le fait social: manières de faire, penser, sentir qui s'imposent à l'individu  
+le fait social: manières de faire, penser, sentir qui s'imposent à l'individu.  
 Phénomène à part (sui generis) qui ne relève ni du biologique, ni du psychologique.  
 Le caractère collectif du fait social se révèle par l'existence de sanctions possibles.  
 Extérieur à la conscience, il faut le traiter "comme s'il était une chose".
@@ -31,3 +31,6 @@ Extérieur à la conscience, il faut le traiter "comme s'il était une chose".
 5. administration de la preuve
 
 ## le normal et le pathologique
+
+Le fait normal, c'est le fait général.  
+La normalité du crime.
