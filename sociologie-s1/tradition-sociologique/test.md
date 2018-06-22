@@ -10,7 +10,13 @@
 
 - Formation d'un groupe de chercheurs
 
-Durkheim fait tout, en 1895 à la parution de _Les règles_, pour s'isoler de ses contemporains et se placer seul dans une lignée intellectuelle qui partirait de Comte pour aboutir à lui. Durkheim a écrit _Les Règles_ dans une relative précipitation, en 1895, la formation du champ sociologique s'accélère. En 1893, WORMS lance la _Revue internationale de sociologie_, et en 1895, il crée la Société de sociologie de Paris et en confie la 1ère présidence à Gabriel Tarde, un autre adversaire de Durkheim. Worms est organiciste, Durkheim commencera ainsi par contrer ces idées en identifiant 3 cibles
+Durkheim fait tout, en 1895 à la parution de _Les règles_, pour s'isoler de ses contemporains et se placer seul dans une lignée intellectuelle qui partirait de Comte pour aboutir à lui. Durkheim a écrit _Les Règles_ dans une relative précipitation, en 1895, la formation du champ sociologique s'accélère. En 1893, WORMS lance la _Revue internationale de sociologie_, et en 1895, il crée la Société de sociologie de Paris et en confie la 1ère présidence à Gabriel Tarde, un autre adversaire de Durkheim. Worms est organiciste, Durkheim devra alors commencer par combattre les idées de son temps. On peut identifier 3 cibles de la critique durkheimienne:
+
+1. le groupe "anthropologique et ethnographique". Composé de BROCA, LETOURNEAU. Le paradigme dominant du groupe est la détermination du social par le biologique, appuyée sur une théorie raciale inégalitariste en vertu de laquelle chaque race physique correspond à un degré d'évolution humaine. Durkheim explique alors qu'il faut rejeter toute explication fondée sur la psychologie individuelle, les facteurs biologiques n'affectent pas l'évolution sociale.
+2. le groupe "criminologiste" et la définition du fait social. Composé de LACASSAGNE, TARDE. Ils expliquent la criminalité par des anomalies cérébrales. L'erreur est de définir un phénomène à partir d'une "notion subjective et tronquée" des choses sociales. La règle fameuse de considérer les faits sociaux "comme des choses".
+3. le groupe "universitaire" et l'annonce des ambitions de Durkheim. Pour Durkheim, il ne font pas vraiment de la sociologie, mais de la psychologie comparée, ou de la philosophie.
+
+L'enjeu des _Règles_ est ainsi de réglementer la sociologie, comme il espère fonder aussi une école qu'il pourra souder non autour d'une théorie, mais plutôt d'une épistémologie.
 
 ## sociologie et politique
 
