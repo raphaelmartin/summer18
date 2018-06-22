@@ -10,6 +10,8 @@
 
 - Formation d'un groupe de chercheurs
 
+Durkheim fait tout, en 1895 à la parution de _Les règles_, pour s'isoler de ses contemporains et se placer seul dans une lignée intellectuelle qui partirait de Comte pour aboutir à lui. Durkheim a écrit _Les Règles_ dans une relative précipitation, en 1895, la formation du champ sociologique s'accélère. En 1893, WORMS lance la _Revue internationale de sociologie_, et en 1895, il crée la Société de sociologie de Paris et en confie la 1ère présidence à Gabriel Tarde, un autre adversaire de Durkheim. Worms est organiciste, Durkheim commencera ainsi par contrer ces idées en identifiant 3 cibles
+
 ## sociologie et politique
 
 sociologie - socialisme  
