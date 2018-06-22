@@ -4,12 +4,13 @@
 
 ## lecture
 
-* [semaine du 11/06](lecture/semaine-du-4-06.md)
+* [—pour le 2 juillet](lecture/pour-le-2-juillet.md)
 
 ## sociologie S1
 
 * [culture générale](sociologie-s1/culture-generale.md)
-* [tradition sociologique](sociologie-s1/tradition-sociologique.md)
+* [tradition sociologique](sociologie-s1/tradition-sociologique/README.md)
+  * [La méthode sociologique](sociologie-s1/tradition-sociologique/test.md)
 * [atelier de lecture](sociologie-s1/atelier-de-lecture.md)
 * [théorie et concepts](sociologie-s1/theorie-et-concepts.md)
 * [intro aux méthodes d'enquêtes en sc.sociales](sociologie-s1/intro-aux-methodes-denquetes-en-sc.sociales.md)
