@@ -1,10 +1,8 @@
 # la kula, un système de prestation totale
 
-## Séance 1 : Présentation de l'École durkheimienne
+## Partie 1 : Mauss, l’Essai sur le don
 
-### Partie 1 : Mauss, l’Essai sur le don
-
-## Séance 2 : la Kula, un système de prestation totale
+### Séance 2 : la Kula, un système de prestation totale
 
 Exposé : la Kula par Malinowski  
 Bronislaw Malinowski, Chapitre 3 « Données essentielles sur la Kula », Les argonautes du Pacifique occidental, Paris, Gallimard, 1989 \[1922\], p. 139-144
