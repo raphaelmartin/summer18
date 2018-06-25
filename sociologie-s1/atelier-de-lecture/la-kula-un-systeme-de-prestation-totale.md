@@ -11,3 +11,4 @@ Discussion : la Kula par Mauss
 Mauss, Marcel, Essai sur le don. Forme et raison de l'échange dans les sociétés archaïques, PUF, coll. « Quadrige Grands textes », 2007, p. 101-117
 
 **II. Principes, raisons et intensité des échanges de dons \(Mélanésie\)**
+
