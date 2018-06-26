@@ -2,7 +2,7 @@
 
 ## Durkheim et l'école française de sociologie
 
-_« Michel LALLEMENT, « SOCIOLOGIE - Histoire, Encyclopædia Universalis [en ligne], consulté le 26 juin 2018. URL : http://www.universalis-edu.com/encyclopedie/sociologie-histoire/ »_
+_« Michel LALLEMENT, « SOCIOLOGIE - Histoire, Encyclopædia Universalis [en ligne], consulté le 26 juin 2018. URL : http://www.universalis-edu.com/encyclopedie/sociologie-histoire/  »_
 
 En France, ils sont plusieurs à se faire concurrence au sein d'un espace scientifique en construction. Outre Le Play déjà cité, il faut d'abord compter avec René Worms, qui se signale moins par l'originalité de ses écrits que par son action en faveur de la reconnaissance de la discipline. Il crée ainsi la Revue internationale de sociologie et fonde un Institut international de sociologie. Juge puis professeur au Collège de France, Gabriel Tarde est riche d'une œuvre bien plus originale. Ami du psychologue français Théodule Ribot, Tarde signe notamment Les Lois de l'imitation (1890) et La Logique sociale (1895). Dans ses travaux, l'ancien magistrat de Sarlat développe une théorie sociologique qui accorde à l'imitation le statut de principe explicatif des rapports que les hommes, mais aussi les groupes, entretiennent entre eux. Durkheim, qui disparaît en 1917, est la dernière des figures phares de la jeune sociologie française. Au fil des années, c'est lui d'ailleurs qui finit par acquérir le quasi-monopole de la légitimité sociologique. Normalien, agrégé de philosophie, il sait s'entourer de collaborateurs efficaces qui œuvrent au profit de sa revue, L'Année sociologique.
 
