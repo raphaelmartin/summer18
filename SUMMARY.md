@@ -16,7 +16,8 @@
   * [la kula, un système de prestation totale](sociologie-s1/atelier-de-lecture/la-kula-un-systeme-de-prestation-totale.md)
 * [théorie et concepts](sociologie-s1/theorie-et-concepts.md)
 * [intro aux méthodes d'enquêtes en sc.sociales](sociologie-s1/intro-aux-methodes-denquetes-en-sc.sociales.md)
-* [méthodes quanti](sociologie-s1/methodes-quanti.md)
+* [intro aux méthodes d'enquête en s.sociales](sociologie-s1/methodes-quanti/README.md)
+  * [introduction](sociologie-s1/methodes-quanti/introduction.md)
 
 ## info-com
 
