@@ -18,6 +18,7 @@
 * [intro aux méthodes d'enquêtes en sc.sociales](sociologie-s1/intro-aux-methodes-denquetes-en-sc.sociales.md)
 * [intro aux méthodes d'enquête en s.sociales](sociologie-s1/methodes-quanti/README.md)
   * [introduction](sociologie-s1/methodes-quanti/introduction.md)
+* [méthodes quanti: stats-info](sociologie-s1/methodes-quanti-stats-info.md)
 
 ## info-com
 
