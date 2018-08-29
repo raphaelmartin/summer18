@@ -6,12 +6,12 @@
 2. La méthode durkheimienne : expliquer les faits sociaux
 	* Un projet positiviste
   * Une définition déterministe des faits sociaux
-  * Holisme méthodologique  
+  * Holisme méthodologique
   * L’objectivisme
 3. Le suicide, du fait individuel au fait social
-  * Point de départ : le test \(Baudelot et Establet, 1984\) 
-  * Connaissances mobilisées pour répondre au testPA  
-  * Pourquoi l’étude de Durkheim est-elle aujourd’hui encore intéressante ? 
+  * Point de départ : le test \(Baudelot et Establet, 1984\)
+  * Connaissances mobilisées pour répondre au testPA
+  * Pourquoi l’étude de Durkheim est-elle aujourd’hui encore intéressante ?
   * Quatre types de suicide : altruiste, égoïste, anomique, fataliste
 
 ### Chapitre 2 : différents modes d’explication du social : analyse causale et sociologie compréhensive
