@@ -25,6 +25,6 @@ _Def:_
 
 ## La problématique centrale de la sociologie ?
 
-1 L’inégalité des sociétés traditionnelles
-2 L’aventure de la société moderne
-3 Conclusion : stratification sociale et sociologie
+1. L’inégalité des sociétés traditionnelles
+2. L’aventure de la société moderne
+3. Conclusion : stratification sociale et sociologie
