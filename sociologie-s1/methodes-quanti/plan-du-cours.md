@@ -4,7 +4,7 @@
 
 1. Emile Durkheim, sociologue du fait social
 2. La méthode durkheimienne : expliquer les faits sociaux
-  * Un projet positiviste
+	* Un projet positiviste
   * Une définition déterministe des faits sociaux
   * Holisme méthodologique  
   * L’objectivisme
