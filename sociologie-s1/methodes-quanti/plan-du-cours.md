@@ -84,3 +84,5 @@
 5. Codage et présentation des résultats
   * L’organisation du travail
   * Le codage des données d’observation
+
+.
