@@ -9,7 +9,7 @@
 ## sociologie S1
 
 * [culture générale](sociologie-s1/culture-generale/README.md)
-  * [Introduction générale : qu’est-ce que la stratification sociale?](sociologie-s1/culture-generale/introduction-generale-quest-ce-que-la-stratification-sociale.md)
+  * [Intro : c'est quoi la stratification sociale?](sociologie-s1/culture-generale/introduction-generale-quest-ce-que-la-stratification-sociale.md)
 * [tradition sociologique](sociologie-s1/tradition-sociologique/README.md)
   * [La méthode sociologique](sociologie-s1/tradition-sociologique/la-methode-sociologique.md)
 * [atelier de lecture](sociologie-s1/atelier-de-lecture/README.md)

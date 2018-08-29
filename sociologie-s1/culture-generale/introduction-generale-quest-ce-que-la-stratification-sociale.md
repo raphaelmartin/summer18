@@ -1,2 +1,2 @@
-# Introduction générale : qu’est-ce que la stratification sociale?
+# Intro : c'est quoi la stratification sociale?
 
