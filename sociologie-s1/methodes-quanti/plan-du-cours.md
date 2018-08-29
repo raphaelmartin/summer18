@@ -1,5 +1,4 @@
 # plan du cours
-
 ### Chapitre 1 : Du fait individuel au fait social
 
 1. Emile Durkheim, sociologue du fait social
