@@ -19,7 +19,7 @@ Références indicatives :
 2. Toute société repose sur de la différenciation sociale
 3. Toute société est hiérachisée
 
-_Def:_
+**Defs:**
 
 > La stratification sociale désigne le découpage des sociétés humaines en catégories hiérarchisées, présentant en leur sein une certaine homogénéité, et qui résulte de l’ensemble des différences sociales associées aux inégalités de richesses, de pouvoir, de prestige ou de connaissance _\(Coulangeon\)_.
 
