@@ -19,7 +19,7 @@
 * [intro aux méthodes d'enquête en s.sociales](sociologie-s1/methodes-quanti/README.md)
   * [plan du cours](sociologie-s1/methodes-quanti/plan-du-cours.md)
   * [intro: qu'est-ce que la sociologie](sociologie-s1/methodes-quanti/intro-quest-ce-que-la-sociologie.md)
-  * [du fait individuel au fait social](sociologie-s1/methodes-quanti/du-fait-individuel-au-fait-social.md)
+  * [du fait individuel au fait social](sociologie-s1/methodes-quanti/chap1-du-fait-individuel-au-fait-social.md)
 * [méthodes quanti: stats-info](sociologie-s1/methodes-quanti-stats-info/README.md)
   * [introduction](sociologie-s1/methodes-quanti-stats-info/introduction.md)
   * [vocabulaire stat](sociologie-s1/methodes-quanti-stats-info/vocabulaire-stat.md)
