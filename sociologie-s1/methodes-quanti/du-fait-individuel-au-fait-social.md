@@ -13,3 +13,4 @@
 > « Voici donc un ordre de faits qui représentent des caractères très spéciaux : ils consistent en des manières d’agir, de penser et de sentir, extérieures à l’individu et qui sont douées d’un pouvoir de cœrcition en vertu duquel ils s’imposent à lui. »
 
 ### holisme méthodologique
+
