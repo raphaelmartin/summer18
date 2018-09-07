@@ -40,3 +40,24 @@ Durkheim
 |10 – 26 avril|Habermas, La science et la technique comme idéologies|_|
 |11 – 17 mai|Éventuel rattrapage||
 |24 mai|Examen||
+
+Bibliographie du cours d’épistémologie des sciences sociales.
+
+![tableau](https://i.imgur.com/pCtwh4H.png) 
+
+Nota Bene, les ouvrages fondamentaux sont indiqués par une dièse #
+
+1. Sur l’épistémologie des sciences en général
+
+Dominique Lecourt la philosophie des sciences Que sais-je ?
+
+Alan F. Chalmers Qu’est-ce que la science ? Le livre de poche
+
+2. L’épistémologie des sciences sociales
+
+Michel Le Du Éléments de sciences humaines  
+
+O. LAWRENCE G. BEDARD JF. THIBAULT Epistémologie de la science politique. Presses  universitaires du Quebec
+Peter Winch, L’idée d’une science sociale Gallimard  
+
+J-M. Berthelot, Épistémologie des sciences sociales
