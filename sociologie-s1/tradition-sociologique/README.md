@@ -16,31 +16,6 @@ Durkheim
 * la méthode sociologique
 * l'étude sociologique du phénomène "suicide"
 
-||||
-|--- |--- |--- |
-|Date|Intitulé / Contenu de la séance|Activité étudiants|
-|1 – 8 février|Introduction|- Choix des exposés /travaux écrits|
-|2 – 15 février|_|_|
-|Histoire des sciences et genèse de l’épistémologie|De la science comme problème|(Suite)|
-|Bachelard, La formation de l’esprit scientifique|3 – 22 février|Baudelot et Establet, Durkheim Le suicide / Max Weber, Le savant et le politique|
-|4 – 1er mars||_|
-|II )Psychologie et politique :|_|_|
-|La psychanalyse et le politique : le sujet mis en question|La psychologie sociale : penser / expérimenter en sciences sociales|(Suite)|
-|Freud, Psychologie des foules et analyse du moi|_|_|
-|Pas de séance le 8 mars||_|
-|5 – 15 mars|Milgram, La soumission à l’autorité|_|
-|6 – 22 mars||_|
-|L’histoire : la construction du passé, la pensée de l’avenir et le problème du devenir|Paul Veyne, Comment on écrit l’histoire|IV)  L’anthropologie et la sociologie du politique|
-|L’autre du politique, le sauvage ?|Sociologie du politique ou politique du social ?|_|
-|_|_|Pierre Clastres, Archéologie de la violence|
-|8 – 5 avril|Bourdieu Questions de sociologie|_|
-|9 – 12 avril||V) Science ou idéologie ?|
-|Une idéologie à prétention scientifique, le marxisme comme science ?|Une science devenue idéologique : politique des sciences ou science politique ?|Marx et Engels : Le matérialisme historique|
-|Pas de séance le 19 avril||_|
-|10 – 26 avril|Habermas, La science et la technique comme idéologies|_|
-|11 – 17 mai|Éventuel rattrapage||
-|24 mai|Examen||
-
 Bibliographie du cours d’épistémologie des sciences sociales.
 
 ![tableau](https://i.imgur.com/pCtwh4H.png) 
