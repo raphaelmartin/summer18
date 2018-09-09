@@ -4,7 +4,7 @@
 
 ## lecture
 
-* [—pour le 2 juillet](lecture/pour-le-2-juillet.md)
+* [—pour le 11 septembre](lecture/pour-le-2-juillet.md)
 
 ## sociologie S1
 

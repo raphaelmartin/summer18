@@ -18,9 +18,9 @@ Durkheim
 
 Bibliographie du cours d’épistémologie des sciences sociales.
 
-![tableau](https://i.imgur.com/pCtwh4H.png) 
+![tableau](https://i.imgur.com/pCtwh4H.png)
 
-Nota Bene, les ouvrages fondamentaux sont indiqués par une dièse #
+Nota Bene, les ouvrages fondamentaux sont indiqués par une dièse \#
 
 1. Sur l’épistémologie des sciences en général
 
@@ -28,11 +28,11 @@ Dominique Lecourt la philosophie des sciences Que sais-je ?
 
 Alan F. Chalmers Qu’est-ce que la science ? Le livre de poche
 
-2. L’épistémologie des sciences sociales
+1. L’épistémologie des sciences sociales
 
-Michel Le Du Éléments de sciences humaines  
+Michel Le Du Éléments de sciences humaines
 
-O. LAWRENCE G. BEDARD JF. THIBAULT Epistémologie de la science politique. Presses  universitaires du Quebec
-Peter Winch, L’idée d’une science sociale Gallimard  
+O. LAWRENCE G. BEDARD JF. THIBAULT Epistémologie de la science politique. Presses universitaires du Quebec Peter Winch, L’idée d’une science sociale Gallimard
 
 J-M. Berthelot, Épistémologie des sciences sociales
+
