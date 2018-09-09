@@ -1,4 +1,4 @@
-# —pour le 11 septembre
+# — pour le 11 septembre
 
 * Etudier 50% de 2 matières
   1. Culture générale
