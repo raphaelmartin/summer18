@@ -8,6 +8,8 @@
 
 ## sociologie S1
 
+* [théorie&concepts](sociologie-s1/theorie-and-concepts/README.md)
+  * [introduction](sociologie-s1/theorie-and-concepts/introduction.md)
 * [culture générale](sociologie-s1/culture-generale/README.md)
   * [Intro : c'est quoi la stratification sociale?](sociologie-s1/culture-generale/introduction-generale-quest-ce-que-la-stratification-sociale.md)
 * [tradition sociologique](sociologie-s1/tradition-sociologique/README.md)
