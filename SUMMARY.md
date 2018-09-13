@@ -16,7 +16,7 @@
   * [l'école durkheimienne](sociologie-s1/atelier-de-lecture/lecole-durkheimienne.md)
   * [la kula, un système de prestation totale](sociologie-s1/atelier-de-lecture/la-kula-un-systeme-de-prestation-totale.md)
 * [théorie et concepts](sociologie-s1/theorie-et-concepts/README.md)
-  * [culture](sociologie-s1/theorie-et-concepts/culture.md)
+  * [De l’expertise sociologique à une définition de la sociologie](sociologie-s1/theorie-et-concepts/de-lexpertise-sociologique-a-une-definition-de-la-sociologie.md)
 * [intro aux méthodes d'enquête en s.sociales](sociologie-s1/methodes-quanti/README.md)
   * [plan du cours](sociologie-s1/methodes-quanti/plan-du-cours.md)
   * [intro: qu'est-ce que la sociologie](sociologie-s1/methodes-quanti/intro-quest-ce-que-la-sociologie.md)
