@@ -1,6 +1,6 @@
 # Intro : c'est quoi la stratification sociale?
 
-1ère partie: "Tribus, castes et ordres. Regards anthropologiques et historiques sur la stratification sociale"
+## 1ère partie: "Tribus, castes et ordres. Regards anthropologiques et historiques sur la stratification sociale"
 
 Références indicatives :
 
